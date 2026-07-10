@@ -1,5 +1,7 @@
 # Zomato Restaurant Expansion Strategy
 
+![Project Thumbnail](Project%20Thumbnail.png)
+
 ## Project Overview
 
 This project is a business analytics case study focused on identifying suitable locations for Zomato's restaurant expansion using restaurant data. The analysis was conducted in Microsoft Excel, followed by documentation of findings in Microsoft Word and presentation of insights in Microsoft PowerPoint.
